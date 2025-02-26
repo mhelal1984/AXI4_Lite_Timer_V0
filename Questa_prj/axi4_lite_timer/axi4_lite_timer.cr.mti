@@ -1,0 +1,22 @@
+E:/Verilog_Practice/Verilog_geish/AMBA_AXI/timer_logic.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/AMBA_AXI/timer_logic.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module timer_logic
+
+Top level modules:
+	timer_logic
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/AMBA_AXI/tb_axi_timer.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/AMBA_AXI/tb_axi_timer.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_axi_timer
+
+Top level modules:
+	tb_axi_timer
+
+} {} {}} E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module axi4_lite_if
+
+Top level modules:
+	axi4_lite_if
+
+} {} {}}

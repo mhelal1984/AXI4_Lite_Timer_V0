@@ -1,0 +1,8 @@
+E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v {1 {vlog -work work -vopt -stats=none E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module axi4_lite_if
+
+Top level modules:
+	axi4_lite_if
+
+} {} {}}

@@ -1,0 +1,69 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Verilog_Practice/Verilog_geish/questa_prj/axi4_lite_if
+T_opt
+!s110 1740394048
+V:=TVl71Ecb9M<WB0N=I;W0
+04 12 4 work axi4_lite_tb fast 0
+=1-70b5e8aef06b-67bc4e40-94-5e00
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vaxi4_lite_if
+Z2 !s110 1740394044
+!i10b 1
+!s100 IDl7VKYSg4DJ^We1d3Eeh0
+IDab3TnPaVU@`7>a[aSS;=1
+Z3 dE:/Verilog_Practice/Verilog_geish/questa_prj/axi4_lite_if_v0.1
+w1740393995
+8E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v
+FE:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v
+!i122 7
+L0 8 138
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1740394044.000000
+!s107 E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/AMBA_AXI/axi4_lite_if.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vaxi4_lite_tb
+R2
+!i10b 1
+!s100 Vfg9Mn`acQ[IlBWN9g6=W3
+IMO4hVmDJ<LL4:z?0HeEld3
+R3
+w1740393923
+8E:/Verilog_Practice/Verilog_geish/AMBA_AXI/tb_axi4_lite_if.v
+FE:/Verilog_Practice/Verilog_geish/AMBA_AXI/tb_axi4_lite_if.v
+!i122 8
+L0 10 147
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/Verilog_Practice/Verilog_geish/AMBA_AXI/tb_axi4_lite_if.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Verilog_Practice/Verilog_geish/AMBA_AXI/tb_axi4_lite_if.v|
+!i113 0
+R7
+R1
